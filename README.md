@@ -95,14 +95,4 @@ int main(void)
     return 0;
 }
 
-Usage
 
-Ensure you have an input file named "input.txt" with the appropriate data format. Compile and run the program, and it will display the results of binary search for each dataset.
-
-bash
-
-$ gcc your_program.c -o your_program
-$ ./your_program
-
-Feel free to adapt and integrate this binary search implementation into your projects as needed.
-ChatGPT can make mistakes. Consider checking importan
